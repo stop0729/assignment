@@ -1,4 +1,4 @@
-### assignment about 3D data & generation model
+## Assignment about 3D data & generation model
 
 By doing this i can understand more about 
 
